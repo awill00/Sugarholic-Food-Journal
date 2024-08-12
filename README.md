@@ -1,0 +1,1 @@
+This is a food journal especially built for a sugarholic like me. It is a simple journal that will hold journal entries of what foods were consumed for each day of the week. Future additons will hopefully include the ability to see each entry and edited entries.
